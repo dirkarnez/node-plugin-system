@@ -1,5 +1,7 @@
 # node-plugin-system
 
+Currently works only with edge-js.
+
 ### How to build
 ```
 yarn
